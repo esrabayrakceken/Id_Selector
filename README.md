@@ -6,7 +6,7 @@
 ```
 - __button id:__ .html dosyasında, stil verilecek olan buttona ID bilgisi ekler.
 ---
-```
+```css
 #signup {
          background-color: black;
 }
