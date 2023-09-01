@@ -1,4 +1,4 @@
-# Id_Selector
+# id-selector
 ## Another variant of Css selector is id selector(Css selectorun başka bir çeşidi id selector)
 - ID; CSS de tek bir öğeyi ayırmak için kanca sağlamak amacıyla kullanılır. Mesela; sayfada birden çok button var ve sadece bir tanesi şekillendirilecek. O zaman o buttona ID bilgisi verilerek stil eklenir.
 ```html
